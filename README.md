@@ -1,1 +1,1 @@
-https://sachin8651.github.io/modul1/
+https://github.com/sachin8651/modul1.git
